@@ -1,7 +1,7 @@
 # Variables are stored in .vscode/settings.json file.
 get {{url}}/posts
 Content-Type: application/json
-Authorization: Bearer {{tokenKyle}}
+Authorization: Bearer {{tokenKyle2}}
 
 {
   "username": "kyle"
