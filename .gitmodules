@@ -1,3 +1,6 @@
 [submodule "kyle-jwt-auth"]
 	path = kyle-jwt-auth
 	url = https://github.com/sahilrajput03/JWT-Authentication
+[submodule "jwt-secure-authorization"]
+	path = jwt-secure-authorization
+	url = git@github.com:sahilrajput03/jwt-secure-authorization.git
